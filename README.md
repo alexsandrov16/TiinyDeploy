@@ -2,8 +2,7 @@
 
 # TiinyPHP
 
-<img src="img/logo.svg" alt="Descripción de la imagen" width="300">
-
+<img src="img/logo.svg" alt="Descripción de la imagen" width="300"><br><br>
 
 ![GitHub Release](https://img.shields.io/github/v/release/alexsandrov16/tiinyphp?include_prereleases&style=flat-square&color=blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexsandrov16/tiinyphp?style=flat-square)
