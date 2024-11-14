@@ -1,7 +1,4 @@
 <div align="center">
-
-# TiinyPHP
-
 <img src="img/logo.svg" alt="Descripción de la imagen" width="300"><br><br>
 
 ![GitHub Release](https://img.shields.io/github/v/release/alexsandrov16/tiinyphp?include_prereleases&style=flat-square&color=blue)
@@ -10,4 +7,5 @@
 <br>
 </div>
 
+# TiinyPHP
 Deploy your PHP projects on TiinyHost quickly and easily.
