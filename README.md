@@ -1,12 +1,8 @@
 <div align="center">
 
-# PROYECTO NOMBRE
+# TiinyPHP
 
-![Descripción de la imagen](img/logo.svg)
+<img src="img/logo.svg" alt="Descripción de la imagen" width="500">
 </div>
-
-<center>
-<img src="img/logo.svg" alt="" width="100">
-</center>
 
 Deploy your PHP projects on TiinyHost quickly and easily.
