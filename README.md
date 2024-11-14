@@ -2,7 +2,7 @@
 
 # PROYECTO NOMBRE
 
-![Descripción de la imagen](ruta/a/tu/imagen.png)
+![Descripción de la imagen](img/logo.svg)
 </div>
 
 <center>
