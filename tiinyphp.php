@@ -1,6 +1,6 @@
 <?php
 //Test
-require_once "vendor/autoload.php";
+//require_once "vendor/autoload.php";
 
 if (!file_exists('.htaccess')) {
     $content = <<<HTACCESS
